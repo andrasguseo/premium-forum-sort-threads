@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Premium Forum Extras - Sort it!
 // @namespace    https://theeventscalendar.com/
-// @version      0.1
+// @version      0.2
 // @description  try to take over the world!
 // @author       You
 // @include      https://theeventscalendar.com/wp-admin/edit.php?post_type=topic&page=tribe-support-queues*
