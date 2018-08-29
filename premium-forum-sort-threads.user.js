@@ -5,7 +5,7 @@
 // @description  try to take over the world!
 // @author       You
 // @include      https://theeventscalendar.com/wp-admin/edit.php?post_type=topic&page=tribe-support-queues*
-// @exclude      https://theeventscalendar.com/wp-admin/edit.php?post_type=topic&page=tribe-support-queues&saved_filter=1343915
+// @exclude      https://theeventscalendar.com/wp-admin/edit.php?post_type=topic&page=tribe-support-queues&saved_filter=1343915*
 // @grant        none
 // ==/UserScript==
 
